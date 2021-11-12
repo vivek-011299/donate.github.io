@@ -1,1 +1,1 @@
-# donate.github.io
+# Virtual Donation Platform
